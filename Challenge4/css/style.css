@@ -1,0 +1,33 @@
+
+   
+   .jumbotron
+{    
+    background: url(images1/profilepic.jpg)=top center;
+    background-size:cover;
+    height: "200px";
+    margin-top: 1em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+    .jumbotron p
+{
+    font-size: 1em;
+    color:#FFF;
+    text-align:justify;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.jumbotron h1
+{
+    font-size: 3.5em;
+    color: #FFF;
+    font-family: 'Noto Serif', serif;
+}
+
+
+
+
+
+
+
